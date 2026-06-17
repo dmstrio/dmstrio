@@ -1,6 +1,6 @@
 **Hello! I'm Dimas Satrio Nugroho.**
 
-I'm a passionate **Web Developer** who enjoys building clean, functional, and user-friendly web applications. I focus on creating efficient solutions using structured code, thoughtful design, and practical implementation with HTML, CSS, JavaScript, Laravel, and Tailwind CSS.
+I'm a passionate **Web Developer** who enjoys building clean, functional, and user-friendly web applications.
 
 **Portfolio Website**: Showcasing my skills, projects, and professional journey.  
 **Company Profile Website**: A dynamic and informative web solution.
